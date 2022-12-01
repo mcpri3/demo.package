@@ -1,0 +1,10 @@
+citHeader("To cite demo.package in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title   = "demo.package: {An} {R} package to ...",
+  author  = c(person("Prima Marie-Caroline")),
+  year    = "2022",
+  note    = "R package version 0.0.0.9000",
+  url     = "https://github.com/mcpri3/demo.package"
+)
